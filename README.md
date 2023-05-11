@@ -1,5 +1,5 @@
-# CodeMazeGuides
-Code   Maze is a blog about simplicity and pragmatism. We tend to write clear and simple articles, easily understandable by everyone.
+# CodeMazeGuides fork
+Code Maze is a blog about simplicity and pragmatism. We tend to write clear and simple articles, easily understandable by everyone.
 
 We run a primarily C#/.NET (Core) blog, with some accent on web development and web applications. Besides trying to implement best practices and use the newest technologies available, we are focusing on the entire lifecycle of .NET (Core) applications.
 
